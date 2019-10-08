@@ -13,3 +13,4 @@ git命令
 2、git add .
 3、git commit -m “修改描述”
 4、git push
+5、git pull
